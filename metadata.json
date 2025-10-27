@@ -1,0 +1,7 @@
+{
+  "name": "GeoChat AI",
+  "description": "An interactive map-based chatbot that uses real-time Google Maps and Search data via Gemini to answer location-specific and general knowledge questions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
